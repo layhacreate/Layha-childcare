@@ -318,14 +318,13 @@ footer span{color:var(--pink);}
 These are all the background checks I have on record. My current issue expires 11-13-2026 </p>
           <a href="https://www.image2url.com/r2/default/documents/1778507787318-d1d764e9-6783-4fce-a41b-3b12e38e4bec.pdf" class="btn-pink"> CLICK HERE TO VIEW </a>
         </div>
-        <h3> AED/CPR/First aid </h3>
+         <div class="card">
+         <div class="card-icon"> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/7ce84ed2-b8f4-4edc-9340-72f98aa72dd7" />
+                 
+<h3> AED/CPR/First aid </h3>
           <p> Take a look at my resume to see my certifications and previous work experince </p>
            <a href="https://www.image2url.com/r2/default/documents/1778508068690-56451f29-1243-42c7-bab4-d0befafec2c2.pdf" class="btn-pink"> CLICK HERE TO VIEW </a>
         </div>
-        <div class="card">
-          <div class="card-icon"> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/1e3a0028-9c14-404f-afc1-5a4c1364b58a" />
-      
-  </div>
 
   <div class="section">
     <div class="section-inner text-center">
@@ -351,7 +350,7 @@ These are all the background checks I have on record. My current issue expires 1
       <p class="section-sub">I provide a variety of childcare solutions designed to fit your family's schedule and specific requirements. Please remember a 3-hour minimum is strictly enforced unless discussed otherwise for emergencies.</p>
       <div class="cards">
         <div class="card">
-          <div class="card-icon">🌙</div>
+ <div class="card-icon"> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/6d491eee-e5a8-4bee-9dc4-1f10d46db9e6" />
           <h3>Date Night Care</h3>
           <p>Enjoy your evening out without worry. I'll keep the kids entertained, fed, and happy until you return.</p>
         </div>
@@ -367,13 +366,13 @@ These are all the background checks I have on record. My current issue expires 1
           <p>Full summer availability with fun activities — parks, libraries, creative play, and more.</p>
         </div>
         <div class="card">
-          <div class="card-icon"> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b8a0bd37-6bdd-4040-b6dd-95b39f4c6213" />
+          <div class="card-icon"> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b8a0bd37-6bdd-4040-b6dd-95b39f4c6213" />
 </div>
           <h3>Work From Home Support</h3>
           <p>Need quiet time to focus? I'll keep the little ones engaged so you can get things done.</p>
         </div>
         <div class="card">
-          <div class="card-icon"><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f1a6b0b5-f30e-4e9e-bdec-66484afcf876" />
+          <div class="card-icon"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/f1a6b0b5-f30e-4e9e-bdec-66484afcf876" />
 </div>
           <h3>Special Occasions</h3>
           <p>Weddings, parties, or family events — flexible care for those special days.</p>
