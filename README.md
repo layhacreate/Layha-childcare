@@ -305,16 +305,19 @@ footer span{color:var(--pink);}
       <div class="cards" style="margin-top:2rem;">
         <div class="card">
           <div class="card-icon">🎓</div>
-          <h3>Education</h3>
-          <p>Completing my Integrated Language Arts Bachelor's Degree at The Ohio State University.</p>
+          <h3> My resume </h3>
+          <p> Take a look at my resume to see my certifications and previous work experince </p>
+           <a href="https://www.image2url.com/r2/default/documents/1778506195126-bc8c0b00-cac8-438d-91bc-0e8ea1db28f7.pdf" class="btn-pink"> CLICK HERE TO VIEW </a>
         </div>
         <div class="card">
-          <div class="card-icon">📚</div>
+          <div class="card-icon"> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/1e3a0028-9c14-404f-afc1-5a4c1364b58a" />
+</div>
           <h3>Experience</h3>
           <p>Substitute teacher in Worthington and Whitehall school districts. Oldest of six siblings!</p>
         </div>
         <div class="card">
-          <div class="card-icon">🎨</div>
+          <div class="card-icon"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/8199dc32-915d-47dc-8fd0-7d55ef7b050f" />
+</div>
           <h3>Personality</h3>
           <p>Creative, patient, fun-loving. I love parks, libraries, Cosi, and of course — ice cream!</p>
         </div>
