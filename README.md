@@ -225,8 +225,8 @@ footer span{color:var(--pink);}
   <div class="section section-alt">
     <div class="section-inner">
       <div class="two-col">
-        <img src="https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=600&q=80" alt="Childcare" />
-        <div class="two-col-text">
+        <img src= "https://images.unsplash.com/photo-1778522501888-d955276f1959?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MXx8fGVufDB8fHx8fA%3D%3D" alt="About Layha" sstyle="max-height:300px;" />
+  <div class="two-col-text">
           <h2>About <span>me</span></h2>
           <p>Hello! My name is Delajha Jones, and I am completing an Integrated Language Arts Bachelor's Degree at Ohio State University to become a secondary education teacher.</p>
           <p>While completing my degree, I provide childcare for a few families as needed, and I also substitute teach in the Worthington and Whitehall school districts! My passion, dedication, and PATIENCE grow with each experience I have with my students and the children I sit for.</p>
@@ -245,7 +245,7 @@ footer span{color:var(--pink);}
           <p>No fixed durations, no confusing calendars. Just pick your date, your start time, and your end time. That's it.</p>
           <a href="https://layhachildcare.netlify.app/" class="btn-pink" target="_blank" style="margin-top:.5rem;">Learn more</a>
         </div>
-        <img src="https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=600&q=80" alt="Calendar scheduling" />
+        <img src="" alt="Calendar scheduling" />
       </div>
     </div>
   </div>
@@ -458,15 +458,15 @@ These are all the background checks I have on record. My current issue expires 1
           <p> Maximum of 4 children per session, with up to 1 child under 12 months old.</p>
         </div>
         <div class="policy-box">
-          <h4> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/bf6bdfac-1a30-419e-bb2b-31dc3c2030c3" Payment Methods</h4>
+          <h4> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/bf6bdfac-1a30-419e-bb2b-31dc3c2030c3" Payment Methods</h4>
           <p> Cash, Zelle, Apple Pay, or Cash App. Payment is made directly to the sitter after service.</p>
         </div>
         <div class="policy-box">
-          <h4> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b33a8b33-7257-4f6a-95f8-fe0f4313769c" Tips</h4>
+          <h4> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b33a8b33-7257-4f6a-95f8-fe0f4313769c" Tips</h4>
           <p>Families are welcome to add a tip it is NEVER required but always appreciated!</p>
         </div>
         <div class="policy-box">
-          <h4> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/5303d2b2-0b08-4632-a07a-87a56b347fa3" Existing Families</h4>
+          <h4> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/5303d2b2-0b08-4632-a07a-87a56b347fa3" Existing Families</h4>
           <p>For families I already sit for your prices remain as we have already established together. When using booking site disregard total given, the correct amount will be updated in confirmation email</p>
         </div>
       </div>
@@ -499,27 +499,27 @@ These are all the background checks I have on record. My current issue expires 1
   <div class="section">
     <div class="section-inner text-center">
       <h2 class="section-title pink">How to book with Layha?</h2>
-      <p class="section-sub">Scheduling childcare with me is straightforward and designed for your convenience. Follow these simple steps to ensure your children receive the best care when you need it most.</p>
+      <p class="section-sub">Scheduling childcare with me is straightforward and designed for your convenience. Follow these simple steps to ensure your children receive the best care when you need it most. If you run into ANY problems please reach out!</p>
       <div class="steps">
         <div class="step">
           <div class="step-num">1</div>
-          <h4>Check the calendar</h4>
-          <p>Visit my booking page and tap any green day on the calendar to see available time slots.</p>
+          <h4>Click the link and check the calendar</h4>
+          <p>Visit my booking page and tap any green day on the calendar to see available time slots. If a day is yellow I am partially avaliable and if red I am not but if care is urgent email me @lay011318@gmail.com</p>
         </div>
         <div class="step">
           <div class="step-num">2</div>
           <h4>Pick your time</h4>
-          <p>Tap an available time block and fill in your details — name, address, children's ages, and your preferred start and end time.</p>
+          <p>Tap an available time block and fill in your details: name, address, children's ages, and your preferred start and end time, etc. </p>
         </div>
         <div class="step">
           <div class="step-num">3</div>
           <h4>Send your request</h4>
-          <p>Submit your booking request. You'll see an estimated total right on the page before you submit.</p>
+          <p>Submit your booking request. If anything needs to be modified and or canceled please use booking id and gmail, NO NEED TO CONTACT ME DIRECTLY </p>
         </div>
         <div class="step">
           <div class="step-num">4</div>
           <h4>Get confirmed</h4>
-          <p>I'll review your request and send you a confirmation email. That time is then yours!</p>
+          <p>I'll review your request and send you a confirmation email 1-5 hours AFTER request was recieved. Please review email to ensure everything is correct if not CONTACT ME IMMEDIATELY !</p>
         </div>
       </div>
     </div>
@@ -568,16 +568,14 @@ These are all the background checks I have on record. My current issue expires 1
       </div>
       <div class="testimonials">
         <div class="testimonial">
-          <p class="testimonial-text">We are so happy that you've been babysitting for us and feel like you do a wonderful job with the kids.</p>
+          <p class="testimonial-text"> "We are so happy that you've been babysitting for us and feel like you do a wonderful job with the kids" </p>
+          </div>
           <div class="testimonial-author">— A Columbus family, since July 2025</div>
         </div>
         <div class="testimonial">
-          <p class="testimonial-text">Layha is incredibly patient and the kids absolutely love her. </p>
-          <div class="testimonial-author">— Columbus, Ohio family</div>
+          <p class="testimonial-text">Layha is "incredibly patient and the kids absolutely love her" </p>
+          <div class="testimonial-author">— A Columbus family, since October 2025 </div>
         </div>
-        <div class="testimonial">
-          <p class="testimonial-text">Booking is so easy and she always shows up on time. She's become such an important part of our routine!</p>
-          <div class="testimonial-author">— Columbus, Ohio family</div>
         </div>
       </div>
     </div>
@@ -600,7 +598,7 @@ These are all the background checks I have on record. My current issue expires 1
   <p style="margin-top:.5rem;"><a href="tel:3302840675" style="color:var(--pink);text-decoration:none;">(330) 284-0675</a> · <a href="mailto:lay011318@gmail.com" style="color:var(--pink);text-decoration:none;">lay011318@gmail.com</a></p>
 </footer>
 
-<script>
+ <script>
 function showPage(id, clickedLink) {
   document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
   document.getElementById('page-' + id).classList.add('active');
@@ -617,4 +615,4 @@ function toggleMenu() {
 }
 </script>
 </body>
-</html>
+</html> }
