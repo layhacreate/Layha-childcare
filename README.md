@@ -367,13 +367,14 @@ These are all the background checks I have on record. My current issue expires 1
           <p>Need quiet time to focus? I'll keep the little ones engaged so you can get things done.</p>
         </div>
         <div class="card">
-          <div class="card-icon"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/f1a6b0b5-f30e-4e9e-bdec-66484afcf876" />
+          <div class="card-icon"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/f4b8d55b-5247-4830-8edb-59d6e1864561" />
+
 </div>
           <h3>Special Occasions</h3>
-          <p>Weddings, parties, or family events — flexible care for those special days.</p>
+          <p> Weddings, parties, or family events? Book flexible care for those special days.</p>
         </div>
         <div class="card">
-          <div class="card-icon">🚨</div>
+         <div class="card-icon"> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/2b7edbc9-e251-4abb-8b00-6df95b8d5af0" />
           <h3>Last-Minute Needs</h3>
           <p>Life happens! Reach out for same-day or short-notice bookings when something comes up.</p>
         </div>
