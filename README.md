@@ -389,11 +389,11 @@ These are all the background checks I have on record. My current issue expires 1
       <div class="service-tags" style="justify-content:center;margin-top:1.5rem;">
         <span class="tag"> <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/dc05cb56-401b-45ef-8a55-788d2e611d9c"/span> Safe, attentive care
         <span class="tag"> <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/dc05cb56-401b-45ef-8a55-788d2e611d9c"/span> Age-appropriate activities</span>
-        <span class="tag"> img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/dc05cb56-401b-45ef-8a55-788d2e611d9c"/span> Snack & meal assistance</span>
-        <span class="tag"> img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/dc05cb56-401b-45ef-8a55-788d2e611d9c"/span> Homework help if needed</span>
-        <span class="tag"> img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/dc05cb56-401b-45ef-8a55-788d2e611d9c"/span> Bedtime routines followed</span>
-        <span class="tag"> img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/dc05cb56-401b-45ef-8a55-788d2e611d9c"/span>Updates available on request</span>
-        <span class="tag"> img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/dc05cb56-401b-45ef-8a55-788d2e611d9c"/span> Patient & fun energy</span>
+        <span class="tag"> <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/dc05cb56-401b-45ef-8a55-788d2e611d9c"/span> Snack & meal assistance</span>
+        <span class="tag"> <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/dc05cb56-401b-45ef-8a55-788d2e611d9c"/span> Homework help if needed</span>
+        <span class="tag"> <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/dc05cb56-401b-45ef-8a55-788d2e611d9c"/span> Bedtime routines followed</span>
+        <span class="tag"> <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/dc05cb56-401b-45ef-8a55-788d2e611d9c"/span>Updates available on request</span>
+        <span class="tag"> <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/dc05cb56-401b-45ef-8a55-788d2e611d9c"/span> Patient & fun energy</span>
       </div>
     </div>
   </div>
