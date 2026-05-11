@@ -1,7 +1,7 @@
 [index-4.html](https://github.com/user-attachments/files/27420658/index-4.html)
 # Layha-childcare<!DOCTYPE html>
 <html lang="en">
-<head>
+<head></head>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
 <title>Layha the Familysitter</title>
