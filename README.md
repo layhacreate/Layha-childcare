@@ -288,7 +288,7 @@ footer span{color:var(--pink);}
   <div class="section">
     <div class="section-inner">
       <div class="two-col">
-        <img src="https://images.unsplash.com/photo-1544717302-de2939b7ef71?w=600&q=80" alt="About Layha" style="max-height:480px;"/>
+        <img src="https://images.unsplash.com/photo-1778523110538-ad27c64ec4a5?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MXx8fGVufDB8fHx8fA%3D%3D" alt="About Layha" style="max-height:480px;"/>
         <div class="two-col-text">
           <h2>Hi, I'm <span>Delajha</span></h2>
           <p>Hello! My name is Delajha Jones, and I am completing an Integrated Language Arts Bachelor's Degree at Ohio State University to become a secondary education teacher.</p>
