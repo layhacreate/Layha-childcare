@@ -374,7 +374,7 @@ These are all the background checks I have on record. My current issue expires 1
           <p> Weddings, parties, or family events? Book flexible care for those special days.</p>
         </div>
         <div class="card">
-         <div class="card-icon"> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/2b7edbc9-e251-4abb-8b00-6df95b8d5af0" />
+         <div class="card-icon"> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/2b7edbc9-e251-4abb-8b00-6df95b8d5af0" />
           <h3>Last-Minute Needs</h3>
           <p>Life happens! Reach out for same-day or short-notice bookings when something comes up.</p>
         </div>
@@ -386,14 +386,13 @@ These are all the background checks I have on record. My current issue expires 1
     <div class="section-inner text-center">
       <h2 class="section-title pink">What's included in every session</h2>
       <div class="service-tags" style="justify-content:center;margin-top:1.5rem;">
-        <span class="tag">✅ Safe, attentive care</span>
+        <span class="tag"> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/dc05cb56-401b-45ef-8a55-788d2e611d9c" /> Safe, attentive care</span>
         <span class="tag">✅ Age-appropriate activities</span>
         <span class="tag">✅ Snack & meal assistance</span>
         <span class="tag">✅ Homework help if needed</span>
         <span class="tag">✅ Bedtime routines followed</span>
         <span class="tag">✅ Updates available on request</span>
         <span class="tag">✅ Patient & fun energy</span>
-        <span class="tag">✅ Up to 5 children per session</span>
       </div>
     </div>
   </div>
