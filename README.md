@@ -202,12 +202,13 @@ footer span{color:var(--pink);}
       <p class="section-sub">Are you a busy parent in need of reliable support? I am offering flexible care for families, whether it's for date nights or just some quiet time to get work done. It doesn't matter the reason — my service is convenient and easy to book. You can rest assured knowing your loved ones are in good hands while you take that much-needed break.</p>
       <div class="cards">
         <div class="card">
-          <div class="card-icon">🌙</div> 
+          <div class="card-icon"> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/68ceae08-3d16-4123-b229-3f7de48c2080" />
+</div> 
           <h3>Date Nights</h3>
           <p>Enjoy your evening out knowing your children are safe, happy, and well cared for at home.</p>
         </div>
         <div class="card">
-          <div class="card-icon">📋</div>
+          <div class="card-icon"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/001c55b1-0e0e-4e72-bd55-3fad4a7e4e81" </div>
           <h3>Appointments & Errands</h3>
           <p>Doctor's appointments, work meetings, or just some quiet time — book care that fits your schedule.</p>
         </div>
@@ -440,36 +441,33 @@ These are all the background checks I have on record. My current issue expires 1
       <h2 class="section-title pink text-center">Policies- please understand the following are non-negotiable </h2>
       <div class="policy-grid" style="margin-top:2rem;">
         <div class="policy-box">
-          <h4> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/06b6968f-c3aa-472a-b592-d728b1ad9085"  3-Hour Minimum</h4>
-          <p>All bookings require a minimum of 3 hours unless discussed otherwise for emergencies. Non-negotiable.</p>
+          <h4> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/06b6968f-c3aa-472a-b592-d728b1ad9085"  3-Hour Minimum</h4>
+          <p>All bookings require a MINIMUM of 3 hours <u>unless<u> discussed otherwise for emergencies. Non-negotiable.</p>
         </div>
         <div class="policy-box">
-          <h4>⚡ Same-Day Booking</h4>
-          <p>A $20 fee is added for same-day bookings. Life happens — I'll still be there for you!</p>
+          <h4> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/6e4f5f84-0922-4ac5-93eb-0ae5762aaf34" Same-Day or Short Notice Booking</h4>
+          <p>A <b>$20<b> fee is added for same-day bookings. A <b>$15<b> fee is added for bookings made with less than 24 hours notice. Life happens and stuff happens so please contact me and we can figure things out!</p>
         </div>
         <div class="policy-box">
-          <h4>⏰ Short Notice Fee</h4>
-          <p>A $15 fee is added for bookings made with less than 24 hours notice.</p>
-        </div>
-        <div class="policy-box">
-          <h4>🎄 Holiday Rate</h4>
+          <div class="policy-box">
+          <h4> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/77c7cf00-5fcd-46fb-a2f8-555a091d6943" Holiday Rate</h4>
           <p>+$7/hr added on NYE, New Year's Day, Thanksgiving, Christmas Eve, and Christmas Day.</p>
         </div>
         <div class="policy-box">
-          <h4>👶 Child Limit</h4>
-          <p>Maximum of 5 children per session, with up to 1 child under 12 months old.</p>
+          <h4> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/c342fae5-b7b6-4ea8-b6dc-d8742f56200a" Child Limit</h4>
+          <p> Maximum of 4 children per session, with up to 1 child under 12 months old.</p>
         </div>
         <div class="policy-box">
-          <h4>💳 Payment Methods</h4>
-          <p>Cash, Zelle, Apple Pay, or Cash App. Payment is made directly to the sitter after service.</p>
+          <h4> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/bf6bdfac-1a30-419e-bb2b-31dc3c2030c3" Payment Methods</h4>
+          <p> Cash, Zelle, Apple Pay, or Cash App. Payment is made directly to the sitter after service.</p>
         </div>
         <div class="policy-box">
-          <h4>💝 Tips</h4>
-          <p>Families are welcome to add a tip or offer a higher hourly rate at their discretion — always appreciated!</p>
+          <h4> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b33a8b33-7257-4f6a-95f8-fe0f4313769c" Tips</h4>
+          <p>Families are welcome to add a tip it is NEVER required but always appreciated!</p>
         </div>
         <div class="policy-box">
-          <h4>🤝 Existing Families</h4>
-          <p>For families I already sit for — your prices remain as we have already established together.</p>
+          <h4> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/5303d2b2-0b08-4632-a07a-87a56b347fa3" Existing Families</h4>
+          <p>For families I already sit for your prices remain as we have already established together. When using booking site disregard total given, the correct amount will be updated in confirmation email</p>
         </div>
       </div>
     </div>
@@ -564,19 +562,17 @@ These are all the background checks I have on record. My current issue expires 1
         <h2>A reminder 💗</h2>
         <p>This is a solo business, so the relationships I have with my families and their children mean a lot! I appreciate them for trusting me and inviting me into their homes to care for the ones they love most. I assure you that I am dedicated to keeping your children safe, comfortable, and well attended to during every service. I believe in creating lasting positive experiences, and nothing makes me happier than hearing how much my services mean to the families I serve.</p>
       </div>
-
       <div class="text-center" style="margin-bottom:2rem;">
         <h2 class="section-title pink">What parents are saying</h2>
         <p class="section-sub">Read what parents are saying about my patient, independent, and fun-loving approach to childcare.</p>
       </div>
-
       <div class="testimonials">
         <div class="testimonial">
           <p class="testimonial-text">We are so happy that you've been babysitting for us and feel like you do a wonderful job with the kids.</p>
           <div class="testimonial-author">— A Columbus family, since July 2025</div>
         </div>
         <div class="testimonial">
-          <p class="testimonial-text">Layha is incredibly patient and the kids absolutely love her. We always feel comfortable leaving them in her care.</p>
+          <p class="testimonial-text">Layha is incredibly patient and the kids absolutely love her. </p>
           <div class="testimonial-author">— Columbus, Ohio family</div>
         </div>
         <div class="testimonial">
