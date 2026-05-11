@@ -304,7 +304,8 @@ footer span{color:var(--pink);}
       <h2 class="section-title pink">A little more about me</h2>
       <div class="cards" style="margin-top:2rem;">
         <div class="card">
-          <div class="card-icon">🎓</div>
+          <div class="card-icon"> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/1e0783af-8b44-4506-886a-5a76db30a66f" />
+</div>
           <h3> My resume </h3>
           <p> Take a look at my resume to see my certifications and previous work experince </p>
            <a href="https://www.image2url.com/r2/default/documents/1778506195126-bc8c0b00-cac8-438d-91bc-0e8ea1db28f7.pdf" class="btn-pink"> CLICK HERE TO VIEW </a>
@@ -312,14 +313,18 @@ footer span{color:var(--pink);}
         <div class="card">
           <div class="card-icon"> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/1e3a0028-9c14-404f-afc1-5a4c1364b58a" />
 </div>
-          <h3>Experience</h3>
-          <p>Substitute teacher in Worthington and Whitehall school districts. Oldest of six siblings!</p>
+          <h3> Background check </h3>
+          <p> Ohio law requires all licensure candidates to have both Ohio Bureau of Criminal Investigation (BCI) and FBI criminal background checks that are no older than one year (365 days) at the time their first credential is issued. 
+These are all the background checks I have on record. My current issue expires 11-13-2026 </p>
+          <a href="https://www.image2url.com/r2/default/documents/1778507787318-d1d764e9-6783-4fce-a41b-3b12e38e4bec.pdf" class="btn-pink"> CLICK HERE TO VIEW </a>
         </div>
         <div class="card">
           <div class="card-icon"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/8199dc32-915d-47dc-8fd0-7d55ef7b050f" />
 </div>
-          <h3>Personality</h3>
-          <p>Creative, patient, fun-loving. I love parks, libraries, Cosi, and of course — ice cream!</p>
+          <h3CPR/ AED / First aid </h3>
+          <p> expires 03-35-2027 </p>
+           <a href="https://www.image2url.com/r2/default/documents/1778508068690-56451f29-1243-42c7-bab4-d0befafec2c2.pdff" class="btn-pink"> CLICK HERE TO VIEW </a>
+         
         </div>
       </div>
     </div>
