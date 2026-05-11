@@ -318,6 +318,12 @@ footer span{color:var(--pink);}
 These are all the background checks I have on record. My current issue expires 11-13-2026 </p>
           <a href="https://www.image2url.com/r2/default/documents/1778507787318-d1d764e9-6783-4fce-a41b-3b12e38e4bec.pdf" class="btn-pink"> CLICK HERE TO VIEW </a>
         </div>
+        <h3> AED/CPR/First aid </h3>
+          <p> Take a look at my resume to see my certifications and previous work experince </p>
+           <a href="https://www.image2url.com/r2/default/documents/1778508068690-56451f29-1243-42c7-bab4-d0befafec2c2.pdf" class="btn-pink"> CLICK HERE TO VIEW </a>
+        </div>
+        <div class="card">
+          <div class="card-icon"> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/1e3a0028-9c14-404f-afc1-5a4c1364b58a" />
       
   </div>
 
