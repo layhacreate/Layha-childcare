@@ -318,16 +318,7 @@ footer span{color:var(--pink);}
 These are all the background checks I have on record. My current issue expires 11-13-2026 </p>
           <a href="https://www.image2url.com/r2/default/documents/1778507787318-d1d764e9-6783-4fce-a41b-3b12e38e4bec.pdf" class="btn-pink"> CLICK HERE TO VIEW </a>
         </div>
-        <div class="card">
-          <div class="card-icon"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/8199dc32-915d-47dc-8fd0-7d55ef7b050f" />
-</div>
-          <h3CPR/ AED / First aid </h3>
-          <p> expires 03-35-2027 </p>
-           <a href="https://www.image2url.com/r2/default/documents/1778508068690-56451f29-1243-42c7-bab4-d0befafec2c2.pdff" class="btn-pink"> CLICK HERE TO VIEW </a>
-         
-        </div>
-      </div>
-    </div>
+      
   </div>
 
   <div class="section">
