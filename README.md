@@ -360,10 +360,10 @@ These are all the background checks I have on record. My current issue expires 1
           <h3>Summer Care</h3>
           <p>Full summer availability with fun activities like parks, libraries, creative play, and more.</p>
         </div>
-     <div class="card">
-          <div class="card-icon"> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b8a0bd37-6bdd-4040-b6dd-95b39f4c6213" />
+        <div class="card">
+          <div class="card-icon"> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/7995ee7e-bd06-48e4-ade1-af5793ac6aeb" />
 </div>
-          <h3>Work From Home Support</h3>
+    <h3>Work From Home Support</h3>
           <p>Need quiet time to focus? I'll keep the little ones engaged so you can get things done.</p>
         </div>
         <div class="card">
