@@ -354,18 +354,13 @@ These are all the background checks I have on record. My current issue expires 1
           <h3>Date Night Care</h3>
           <p>Enjoy your evening out without worry. I'll keep the kids entertained, fed, and happy until you return.</p>
         </div>
-        <div class="card">
-          <div class="card-icon">🏥</div>
-          <h3>Appointment Cover</h3>
-          <p>Doctor's appointments, meetings, or errands — I've got the kids covered whenever you need.</p>
-        </div>
-        <div class="card">
-          <div class="card-icon"> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/db127285-2c90-48d1-a907-a1a35051fc73" />
+    <div class="card">
+          <div class="card-icon"> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/db127285-2c90-48d1-a907-a1a35051fc73" />
 </div>
           <h3>Summer Care</h3>
-          <p>Full summer availability with fun activities — parks, libraries, creative play, and more.</p>
+          <p>Full summer availability with fun activities like parks, libraries, creative play, and more.</p>
         </div>
-        <div class="card">
+     <div class="card">
           <div class="card-icon"> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b8a0bd37-6bdd-4040-b6dd-95b39f4c6213" />
 </div>
           <h3>Work From Home Support</h3>
