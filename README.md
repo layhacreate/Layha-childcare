@@ -386,8 +386,8 @@ These are all the background checks I have on record. My current issue expires 1
     <div class="section-inner text-center">
       <h2 class="section-title pink">What's included in every session</h2>
       <div class="service-tags" style="justify-content:center;margin-top:1.5rem;">
-        <span class="tag"> <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/dc05cb56-401b-45ef-8a55-788d2e611d9c" /span> Safe, attentive care
-        <span class="tag">✅ Age-appropriate activities</span>
+        <span class="tag"> <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/dc05cb56-401b-45ef-8a55-788d2e611d9c"/span> Safe, attentive care
+        <span class="tag"> <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/dc05cb56-401b-45ef-8a55-788d2e611d9c"/span> Age-appropriate activities</span>
         <span class="tag">✅ Snack & meal assistance</span>
         <span class="tag">✅ Homework help if needed</span>
         <span class="tag">✅ Bedtime routines followed</span>
