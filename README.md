@@ -388,11 +388,11 @@ These are all the background checks I have on record. My current issue expires 1
       <div class="service-tags" style="justify-content:center;margin-top:1.5rem;">
         <span class="tag"> <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/dc05cb56-401b-45ef-8a55-788d2e611d9c"/span> Safe, attentive care
         <span class="tag"> <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/dc05cb56-401b-45ef-8a55-788d2e611d9c"/span> Age-appropriate activities</span>
-        <span class="tag">✅ Snack & meal assistance</span>
-        <span class="tag">✅ Homework help if needed</span>
-        <span class="tag">✅ Bedtime routines followed</span>
-        <span class="tag">✅ Updates available on request</span>
-        <span class="tag">✅ Patient & fun energy</span>
+        <span class="tag"> img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/dc05cb56-401b-45ef-8a55-788d2e611d9c"/span> Snack & meal assistance</span>
+        <span class="tag"> img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/dc05cb56-401b-45ef-8a55-788d2e611d9c"/span> Homework help if needed</span>
+        <span class="tag"> img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/dc05cb56-401b-45ef-8a55-788d2e611d9c"/span> Bedtime routines followed</span>
+        <span class="tag"> img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/dc05cb56-401b-45ef-8a55-788d2e611d9c"/span>Updates available on request</span>
+        <span class="tag"> img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/dc05cb56-401b-45ef-8a55-788d2e611d9c"/span> Patient & fun energy</span>
       </div>
     </div>
   </div>
@@ -437,10 +437,10 @@ These are all the background checks I have on record. My current issue expires 1
 
   <div class="section section-alt">
     <div class="section-inner">
-      <h2 class="section-title pink text-center">Policies &amp; extra fees</h2>
+      <h2 class="section-title pink text-center">Policies- please understand the following are non-negotiable </h2>
       <div class="policy-grid" style="margin-top:2rem;">
         <div class="policy-box">
-          <h4>🕐 3-Hour Minimum</h4>
+          <h4> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/06b6968f-c3aa-472a-b592-d728b1ad9085"  3-Hour Minimum</h4>
           <p>All bookings require a minimum of 3 hours unless discussed otherwise for emergencies. Non-negotiable.</p>
         </div>
         <div class="policy-box">
