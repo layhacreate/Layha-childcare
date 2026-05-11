@@ -212,7 +212,7 @@ footer span{color:var(--pink);}
           <p>Doctor's appointments, work meetings, or just some quiet time — book care that fits your schedule.</p>
         </div>
         <div class="card">
-          <div class="card-icon"> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/23c2770a-e1e2-4966-a1f7-9ef30d13f89e" />
+          <div class="card-icon"> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/23c2770a-e1e2-4966-a1f7-9ef30d13f89e" />
 </div>
           <h3>Summer Days</h3>
           <p>Parks, libraries, Cosi trips, and ice cream — I make every day fun for your little ones.</p>
