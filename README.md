@@ -159,7 +159,7 @@ footer span{color:var(--pink);}
 <nav>
   <div class="nav-inner">
     <a class="nav-logo" href="#" onclick="showPage('home')">
-      <span class="nav-logo-icon">🐞</span>
+      <img src= "https://www.image2url.com/r2/default/images/1778503990593-23681749-38c8-42f8-82ce-a881fe2ef283.png" style= "width: 40px ; height 40px:" />
       <div class="nav-logo-text">Layha <span>the familysitter</span></div>
     </a>
     <div class="nav-links">
@@ -202,7 +202,7 @@ footer span{color:var(--pink);}
       <p class="section-sub">Are you a busy parent in need of reliable support? I am offering flexible care for families, whether it's for date nights or just some quiet time to get work done. It doesn't matter the reason — my service is convenient and easy to book. You can rest assured knowing your loved ones are in good hands while you take that much-needed break.</p>
       <div class="cards">
         <div class="card">
-          <div class="card-icon">🌙</div>
+          <div class="card-icon">🌙</div> 
           <h3>Date Nights</h3>
           <p>Enjoy your evening out knowing your children are safe, happy, and well cared for at home.</p>
         </div>
@@ -212,7 +212,8 @@ footer span{color:var(--pink);}
           <p>Doctor's appointments, work meetings, or just some quiet time — book care that fits your schedule.</p>
         </div>
         <div class="card">
-          <div class="card-icon">☀️</div>
+          <div class="card-icon"> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/23c2770a-e1e2-4966-a1f7-9ef30d13f89e" />
+</div>
           <h3>Summer Days</h3>
           <p>Parks, libraries, Cosi trips, and ice cream — I make every day fun for your little ones.</p>
         </div>
@@ -355,17 +356,20 @@ footer span{color:var(--pink);}
           <p>Doctor's appointments, meetings, or errands — I've got the kids covered whenever you need.</p>
         </div>
         <div class="card">
-          <div class="card-icon">☀️</div>
+          <div class="card-icon"> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/db127285-2c90-48d1-a907-a1a35051fc73" />
+</div>
           <h3>Summer Care</h3>
           <p>Full summer availability with fun activities — parks, libraries, creative play, and more.</p>
         </div>
         <div class="card">
-          <div class="card-icon">💼</div>
+          <div class="card-icon"> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b8a0bd37-6bdd-4040-b6dd-95b39f4c6213" />
+</div>
           <h3>Work From Home Support</h3>
           <p>Need quiet time to focus? I'll keep the little ones engaged so you can get things done.</p>
         </div>
         <div class="card">
-          <div class="card-icon">🎉</div>
+          <div class="card-icon"><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f1a6b0b5-f30e-4e9e-bdec-66484afcf876" />
+</div>
           <h3>Special Occasions</h3>
           <p>Weddings, parties, or family events — flexible care for those special days.</p>
         </div>
@@ -538,7 +542,7 @@ footer span{color:var(--pink);}
   <div class="section">
     <div class="section-inner text-center">
       <div class="highlight-box">
-        <h3>Ready to go? 🎉</h3>
+        <h3>Ready to go? ? </h3>
         <p>Head to my booking page to view my real-time availability and submit your request.</p>
         <a href="https://layhachildcare.netlify.app/" class="btn-outline-pink" style="border-color:#fff;color:#fff;" target="_blank">Open booking page</a>
       </div>
