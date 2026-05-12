@@ -192,7 +192,7 @@ footer span{color:var(--pink);}
       <div class="hero-badge">Columbus, Ohio</div>
       <h1>Trusted care for the ones you <em>love the most</em></h1>
       <p>Book reliable and convenient childcare for families in the Columbus, Ohio area</p>
-      <a href="https://layhachildcarescheduling.netlify.app/" class="btn-pink" target="_blank">Schedule Service</a>
+      <a href="https://layhachildcarebookinghome.netlify.app" class="btn-pink" target="_blank">Schedule Service</a>
     </div>
   </div>
 
@@ -243,7 +243,7 @@ footer span{color:var(--pink);}
           <h2>Easy <span>Scheduling</span></h2>
           <p>Scheduling made convenient, easy, and quick! Block off the time your family needs care — ranging from 3 hours to 6 or EVEN MORE — it's all based on what you need.</p>
           <p>No fixed durations, no confusing calendars. Just pick your date, your start time, and your end time. That's it.</p>
-          <a href="https://layhachildcarescheduling.netlify.app/" class="btn-pink" target="_blank" style="margin-top:.5rem;">Learn more</a>
+          <a href="https://layhachildcarebookinghome.netlify.app" class="btn-pink" target="_blank" style="margin-top:.5rem;">Learn more</a>
         </div>
         <img src="" alt="Calendar scheduling" />
       </div>
@@ -329,7 +329,7 @@ These are all the background checks I have on record. My current issue expires 1
 
   <div class="section">
     <div class="section-inner text-center">
-      <a href="https://layhachildcarescheduling.netlify.app/" class="btn-pink" target="_blank">Book with me today</a>
+      <a href="https://layhachildcarebookinghome.netlify.app" class="btn-pink" target="_blank">Book with me today</a>
     </div>
   </div>
 </div>
@@ -341,7 +341,7 @@ These are all the background checks I have on record. My current issue expires 1
       <div class="hero-badge" style="background:#fff;color:var(--pink);">What I offer</div>
       <h1 style="color:#fff;">Convenient &amp; reliable <em style="color:#ffe0f3;">childcare services</em></h1>
       <p style="color:rgba(255,255,255,0.9);">I am dedicated to providing a safe, fun, and engaging environment for your children, tailored to your unique needs.</p>
-      <a href="https://layhachildcarescheduling.netlify.app/" class="btn-outline-pink" style="border-color:#fff;color:#fff;" target="_blank">Schedule care — click here</a>
+      <a href="https://layhachildcarebookinghome.netlify.app" class="btn-outline-pink" style="border-color:#fff;color:#fff;" target="_blank">Schedule care — click here</a>
     </div>
   </div>
 
@@ -403,7 +403,7 @@ These are all the background checks I have on record. My current issue expires 1
       <div class="highlight-box">
         <h3>Ready to book?</h3>
         <p>Check my availability and request your childcare session in just a few minutes.</p>
-        <a href="https://layhachildcarescheduling.netlify.app/" class="btn-outline-pink" style="border-color:#fff;color:#fff;" target="_blank">View availability & book</a>
+        <a href="https://layhachildcarebookinghome.netlify.app" class="btn-outline-pink" style="border-color:#fff;color:#fff;" target="_blank">View availability & book</a>
       </div>
     </div>
   </div>
@@ -541,7 +541,7 @@ These are all the background checks I have on record. My current issue expires 1
       <div class="highlight-box">
         <h3>Ready to go? ? </h3>
         <p>Head to my booking page to view my real-time availability and submit your request.</p>
-        <a href="https://layhachildcarescheduling.netlify.app/" class="btn-outline-pink" style="border-color:#fff;color:#fff;" target="_blank">Open booking page</a>
+        <a href="https://layhachildcarebookinghome.netlify.app" class="btn-outline-pink" style="border-color:#fff;color:#fff;" target="_blank">Open booking page</a>
       </div>
     </div>
   </div>
@@ -586,7 +586,7 @@ These are all the background checks I have on record. My current issue expires 1
       <h2 class="section-title pink">Want to become a Layha family?</h2>
       <p class="section-sub">I'd love to meet you and your children! New families are welcome to reach out for a quick call or in-person meeting before booking their first session.</p>
       <div style="display:flex;gap:1rem;justify-content:center;flex-wrap:wrap;margin-top:1rem;">
-        <a href="https://layhachildcarescheduling.netlify.app/" class="btn-pink" target="_blank">Book now</a>
+        <a href="https://layhachildcarebookinghome.netlify.app" class="btn-pink" target="_blank">Book now</a>
         <a href="mailto:lay011318@gmail.com" class="btn-outline-pink">Say hello</a>
       </div>
     </div>
